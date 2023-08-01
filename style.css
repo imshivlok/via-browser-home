@@ -1,0 +1,27 @@
+body{
+    background-color:black; color:white;
+}
+
+.logo{
+    text-align:center; margin-top:40%;
+}
+
+.logo img{
+    border-radius:50%;
+}
+
+.greetings{
+    text-align:center; margin-top:20px;
+}
+
+.shortcuts{
+    margin:10px; text-align:center;
+}
+
+.shortcuts a{
+    margin:10px;
+}
+
+.shortcuts a img{
+    height:50px; border-radius:50%; border: 2px solid white;
+}
