@@ -14,7 +14,7 @@
 
 <h2>Demo Screenshots</h2>
   
-  <img src="/images/screenshot.png" alt="screenshot" title="screenshot" width="100%">
+  <img src="/images/screenshot.png" alt="screenshot" title="screenshot" width="40%">
 
 <h2>Active Hosts</h2>
 
