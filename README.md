@@ -5,7 +5,7 @@
   ![GitHub forks](https://img.shields.io/github/forks/imshivlok/via-browser-home?style=social)
   ![Progress](https://img.shields.io/badge/complete-50C878)<br>
   
-  <img src="/images/logo.jpg" alt="logo" title="logo" width="10%">
+  <img src="/images/logo.jpg" alt="logo" title="logo" width="20%">
 
  <h2>Browser Homepage</h2>
   A minimal Mobile Browser Homepage with a few bookmarks and a text that reads,<br> "Welcome to Via!"<br>Built using HTML/CSS.<br><br>
